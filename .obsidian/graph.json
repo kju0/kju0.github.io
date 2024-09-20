@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:library",
+      "color": {
+        "a": 1,
+        "rgb": 16509224
+      }
+    },
+    {
+      "query": "file:Olpemi WAF ",
+      "color": {
+        "a": 1,
+        "rgb": 9213406
+      }
+    },
+    {
+      "query": "path:\"project/올빼미 WAF\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6445483
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1,
+  "close": true
+}

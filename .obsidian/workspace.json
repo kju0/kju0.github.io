@@ -30,9 +30,69 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "be751cddcf0b4edc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "공부해야 하는 개념.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36e1f5664ab471ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "공부해야 하는 개념.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38277192a0a2c617",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "project/olpemi-waf/WAF 탐지 현황 모니터링 기능.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1590d766e3ea83c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "project/olpemi-waf/WAF솔루션.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ed4c6045874022a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "공부해야 하는 개념.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -159,10 +219,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "895376ac5ba21941",
+  "active": "4ed4c6045874022a",
   "lastOpenFiles": [
+    "project/olpemi-waf/WAF솔루션.md",
     "infra/Nginx 성능측정.md",
+    "library/YAZL.md",
     "공부해야 하는 개념.md",
+    "project/olpemi-waf/WAF 탐지 현황 모니터링 기능.md",
+    "무제 파일.canvas",
+    "library",
+    "project/olpemi-waf",
+    "project",
     "infra"
   ]
 }
