@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infrastructure/Mbps, TPS 측정하기.md",
-                "mode": "preview",
+                "file": "Infrastructure/Mod Security 설치, 디버깅, 테스트 방법 정리.md",
+                "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "5a6b4082934459c9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -31,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 230.5
   },
   "right": {
     "id": "73934475d0dd0470",
@@ -97,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Infrastructure/Mbps, TPS 측정하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Infrastructure/Mbps, TPS 측정하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Infrastructure/Mbps, TPS 측정하기.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,15 +163,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d5801eef62adb13a",
+  "active": "5a6b4082934459c9",
   "lastOpenFiles": [
+    "Infrastructure/Development Environment/VSCode 컴파일 옵션, 디버깅 작업 설정하는 법.md",
+    "Infrastructure/Mod Security 설치, 디버깅, 테스트 방법 정리.md",
+    "Infrastructure/Development Environment",
+    "Projects/olpemi-waf/WAF 확장 - 딥웹 탐지 로직 추가.md",
     "Projects/olpemi-waf/모니터링 대시보드 - WAF 탐지 현황.md",
-    "Infrastructure/Mbps, TPS 측정하기.md",
     "Projects/olpemi-waf/WAF솔루션.md",
+    "공부해야 하는 개념.md",
+    "Infrastructure/Mbps, TPS 측정하기.md",
     "Programming Languages/Java",
     "무제 폴더 1",
     "Programming Languages",
-    "공부해야 하는 개념.md",
     "Libraries/YAZL.md",
     "무제 파일.canvas",
     "Libraries",
