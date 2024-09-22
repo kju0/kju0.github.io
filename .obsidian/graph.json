@@ -15,14 +15,14 @@
       }
     },
     {
-      "query": "file:Olpemi WAF ",
+      "query": "file:WAF솔루션 ",
       "color": {
         "a": 1,
         "rgb": 9213406
       }
     },
     {
-      "query": "path:\"project/올빼미 WAF\"  ",
+      "query": "path:\"Projects/olpemi-waf\"  ",
       "color": {
         "a": 1,
         "rgb": 6445483
@@ -40,5 +40,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1,
-  "close": true
+  "close": false
 }

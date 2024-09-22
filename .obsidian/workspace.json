@@ -13,68 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "infra/Nginx 성능측정.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "895376ac5ba21941",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "공부해야 하는 개념.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be751cddcf0b4edc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "공부해야 하는 개념.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36e1f5664ab471ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "공부해야 하는 개념.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38277192a0a2c617",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "project/olpemi-waf/WAF 탐지 현황 모니터링 기능.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1590d766e3ea83c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "project/olpemi-waf/WAF솔루션.md",
-                "mode": "source",
+                "file": "Infrastructure/Mbps, TPS 측정하기.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -91,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부해야 하는 개념.md",
+                "file": "Infrastructure/Mbps, TPS 측정하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부해야 하는 개념.md",
+                "file": "Infrastructure/Mbps, TPS 측정하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부해야 하는 개념.md"
+                "file": "Infrastructure/Mbps, TPS 측정하기.md"
               }
             }
           }
@@ -219,17 +158,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4ed4c6045874022a",
+  "active": "d5801eef62adb13a",
   "lastOpenFiles": [
-    "project/olpemi-waf/WAF솔루션.md",
-    "infra/Nginx 성능측정.md",
-    "library/YAZL.md",
+    "Projects/olpemi-waf/모니터링 대시보드 - WAF 탐지 현황.md",
+    "Infrastructure/Mbps, TPS 측정하기.md",
+    "Projects/olpemi-waf/WAF솔루션.md",
+    "Programming Languages/Java",
+    "무제 폴더 1",
+    "Programming Languages",
     "공부해야 하는 개념.md",
-    "project/olpemi-waf/WAF 탐지 현황 모니터링 기능.md",
+    "Libraries/YAZL.md",
     "무제 파일.canvas",
-    "library",
-    "project/olpemi-waf",
-    "project",
-    "infra"
+    "Libraries",
+    "Projects/olpemi-waf",
+    "Projects",
+    "Infrastructure"
   ]
 }
