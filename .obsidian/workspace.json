@@ -11,20 +11,44 @@
             "id": "d5801eef62adb13a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Infrastructure/Mod Security 설치, 디버깅, 테스트 방법 정리.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "5a6b4082934459c9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Infrastructure/Development Environment/VSCode 컴파일 옵션, 디버깅 작업 설정하는 법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "984549f3fbe23343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infrastructure/프로메테우스로 시스템 메트릭 수집하기(API).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e43c936e9c400b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infrastructure/프로메테우스로 시스템 메트릭 수집하기(API).md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -40,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Infrastructure/프로메테우스로 시스템 메트릭 수집하기(API).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Infrastructure/프로메테우스로 시스템 메트릭 수집하기(API).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Infrastructure/프로메테우스로 시스템 메트릭 수집하기(API).md"
+              }
             }
           }
         ]
@@ -163,24 +191,32 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5a6b4082934459c9",
+  "active": "4e43c936e9c400b0",
   "lastOpenFiles": [
+    "Error/페이지가 작동하지 않습니다. 리디렉션한 횟수가 너무 많습니다. with prometheus.md",
+    "Web/서버 위치가 변경됐을 때 조치 방법.md",
+    "무제 폴더",
+    "Error",
+    "공부해야 하는 개념.md",
+    "Network/Nginx.md",
+    "Infrastructure/프로메테우스로 시스템 메트릭 수집하기(API).md",
+    "Network",
+    "Infrastructure/Development Environment/서버 재부팅 후 재실행 등록.md",
+    "Web/무제 폴더",
+    "Web",
+    "Projects/olpemi-waf/모니터링 대시보드 - 메트릭 모니터링.md",
+    "Projects/olpemi-waf/모니터링 대시보드 - WAF 탐지 현황.md",
+    "Projects/olpemi-waf/WAF 확장 - 딥웹 탐지 로직 추가.md",
+    "Libraries/YAZL.md",
+    "Projects/olpemi-waf/WAF솔루션.md",
     "Infrastructure/Development Environment/VSCode 컴파일 옵션, 디버깅 작업 설정하는 법.md",
+    "Infrastructure/Mbps, TPS 측정하기.md",
     "Infrastructure/Mod Security 설치, 디버깅, 테스트 방법 정리.md",
     "Infrastructure/Development Environment",
-    "Projects/olpemi-waf/WAF 확장 - 딥웹 탐지 로직 추가.md",
-    "Projects/olpemi-waf/모니터링 대시보드 - WAF 탐지 현황.md",
-    "Projects/olpemi-waf/WAF솔루션.md",
-    "공부해야 하는 개념.md",
-    "Infrastructure/Mbps, TPS 측정하기.md",
     "Programming Languages/Java",
     "무제 폴더 1",
     "Programming Languages",
-    "Libraries/YAZL.md",
     "무제 파일.canvas",
-    "Libraries",
-    "Projects/olpemi-waf",
-    "Projects",
-    "Infrastructure"
+    "Libraries"
   ]
 }
